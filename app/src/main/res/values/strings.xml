@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="btn_1">Botão 1</string>
+    <string name="btn_2">Botão 2</string>
+    <string name="btn_3">Botão 3</string>
+    <string name="calcular">Calcular</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+</resources>
